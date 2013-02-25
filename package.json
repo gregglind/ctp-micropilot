@@ -3,7 +3,7 @@
   "license": "MPL 2.0",
   "author": "Ilana Segall",
   "source": "https://github.com/ilanasegall/ctp-micropilot",
-  "version": "0.2",
+  "version": "0.3.0",
   "fullName": "ctp-micropilot",
   "id": "ctp-micropilot@ux.mozilla.com",
   "description": "testing obs svc messages for ctp",
